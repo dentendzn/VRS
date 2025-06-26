@@ -4,8 +4,8 @@
 | Standing | Points | Team Name                         | Roster                                            |                                                                                                              |
 | :- | -: | :- | :- | :- |
 | 1        |   1537 | PaiN Gaming                       | biguzera, dav1deuS, kauez, nqz, snow              | [details](details/2025_02_28/0013--pain_gaming--biguzera-dav1deus-kauez-nqz-snow.md)                         |
-| 2        |   1272 | Team Liquid                       | jks, NAF, NertZ, Twistzz, ultimate                | [details](details/2025_02_28/0017--team_liquid--jks-naf-nertz-twistzz-ultimate.md)                           |
-| 3        |   1173 | FURIA                             | chelo, FalleN, KSCERATO, skullz, yuurih           | [details](details/2025_02_28/0021--furia--chelo-fallen-kscerato-skullz-yuurih.md)                            |
+| 2        |   1173 | FURIA                             | chelo, FalleN, KSCERATO, skullz, yuurih           | [details](details/2025_02_28/0021--furia--chelo-fallen-kscerato-skullz-yuurih.md)                            |
+| 3        |   1139 | Wildcard                          | JBa, phzy, Sonic, stanislaw, susp                 | [details](details/2025_02_28/0024--wildcard--jba-phzy-sonic-stanislaw-susp.md)                               |
 | 4        |   1129 | MIBR                              | drop, exit, insani, Lucaozy, saffee               | [details](details/2025_02_28/0025--mibr--drop-exit-insani-lucaozy-saffee.md)                                 |
 | 5        |   1062 | Imperial Esports                  | chayJESUS, decenty, noway, try, VINI              | [details](details/2025_02_28/0035--imperial_esports--chayjesus-decenty-noway-try-vini.md)                    |
 | 6        |   1052 | NRG                               | br0, HexT, Jeorge, nitr0, oSee                    | [details](details/2025_02_28/0037--nrg--br0-hext-jeorge-nitr0-osee.md)                                       |
